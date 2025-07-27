@@ -116,7 +116,8 @@ pip install pyqt5 discord.py
 
 
 
-> \*\<img width="1000" height="630" alt="Preview" src="https://github.com/user-attachments/assets/14a1de4f-0a90-4dd5-8010-1dd475309bff"/>*
+<img width="1000" height="630" alt="Preview" src="https://github.com/user-attachments/assets/efe6a899-0cb5-4fb5-b451-e257ee19830f" />
+
 
 
 
